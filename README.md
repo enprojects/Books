@@ -4,7 +4,7 @@
       <meta http-equiv='cache-control' content='no-cache'> 
       <meta http-equiv='expires' content='0'> 
        <meta http-equiv='pragma' content='no-cache'>
-    <title>My books</title>
+   
    </head>
    <body>
       <h1>Welcome to my website! ⭐️</h1>
